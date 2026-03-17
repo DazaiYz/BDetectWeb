@@ -1,2 +1,2 @@
-# BDetectWeb
+# Bothriochloa ischaemum Detect Web
 This code is a lightweight web-based intelligent recognition system for Bothriochloa ischaemum spikelets and seeds, built on FastAPI and YOLO. By loading a trained improved model, it automatically detects spikelets and seeds in images, supports image uploads or direct photo capture via the web interface, and returns real-time annotated images, quantity statistics, and seed prediction results. It features a clean interface, is compatible with both mobile and desktop devices, and can be directly deployed and run. The extracted "test" folder contains images for testing purposes.
